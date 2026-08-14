@@ -1,0 +1,9 @@
+{
+  "namespace": "test-credit-mech-run",
+  "rows": 2,
+  "chain": "aa22aa22",
+  "pinned_at": "2026-08-14T22:45:02.205Z",
+  "seq": 2,
+  "cadence_hours": 24,
+  "next_pin_due_by": "2026-08-15T22:45:02.205Z"
+}
