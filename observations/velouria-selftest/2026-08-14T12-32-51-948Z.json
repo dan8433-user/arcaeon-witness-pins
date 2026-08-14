@@ -1,0 +1,15 @@
+{
+  "observed_at": "2026-08-14T12:32:51.948Z",
+  "claimed": {
+    "namespace": "velouria-selftest",
+    "rows": 3,
+    "chain": "cafebabecafebabecafebabecafebabe"
+  },
+  "accepted_head": {
+    "rows": 3,
+    "chain": "deadbeefdeadbeefdeadbeefdeadbeef",
+    "seq": 3
+  },
+  "auth_result": "key-valid-for-namespace",
+  "verdict": "head-conflict: same rows, different chain (re-mint signature)"
+}
