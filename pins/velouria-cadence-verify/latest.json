@@ -1,0 +1,9 @@
+{
+  "namespace": "velouria-cadence-verify",
+  "rows": 1,
+  "chain": "deadbeefcafef00d",
+  "pinned_at": "2026-08-14T19:10:34.356Z",
+  "seq": 1,
+  "cadence_hours": 24,
+  "next_pin_due_by": "2026-08-15T19:10:34.356Z"
+}
