@@ -5,7 +5,7 @@
   "pinned_at": "2026-08-15T01:04:06.211Z",
   "seq": 2,
   "cadence_hours": 24,
-  "next_pin_due_by": "2026-08-16T01:04:06.211Z",
+  "next_pin_due_by": "2026-08-14T22:04:55.558Z",
   "record_kind": "publisher_heartbeat",
   "head_first_seen_at": "2026-08-15T01:03:39.020Z",
   "renewals_since_advance": 1,
@@ -27,7 +27,7 @@
       "kind": "publisher_heartbeat",
       "opened_at": "2026-08-15T01:04:06.211Z",
       "cadence_hours": 24,
-      "due_by": "2026-08-16T01:04:06.211Z",
+      "due_by": "2026-08-14T22:04:55.558Z",
       "supersedes_due_by": "2026-08-16T01:03:39.020Z",
       "superseded_deadline_was_missed": false
     }
