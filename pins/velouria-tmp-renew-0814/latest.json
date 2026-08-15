@@ -1,14 +1,14 @@
 {
   "namespace": "velouria-tmp-renew-0814",
-  "rows": 100,
-  "chain": "aaaa1111bbbb2222",
-  "pinned_at": "2026-08-15T01:05:18.810Z",
-  "seq": 3,
+  "rows": 140,
+  "chain": "cccc3333dddd4444",
+  "pinned_at": "2026-08-15T01:06:08.629Z",
+  "seq": 4,
   "cadence_hours": 24,
-  "next_pin_due_by": "2026-08-16T01:05:18.810Z",
-  "record_kind": "publisher_heartbeat",
-  "head_first_seen_at": "2026-08-15T01:03:39.020Z",
-  "renewals_since_advance": 2,
+  "next_pin_due_by": "2026-08-16T01:06:08.629Z",
+  "record_kind": "content_head_advance",
+  "head_first_seen_at": "2026-08-15T01:06:08.629Z",
+  "renewals_since_advance": 0,
   "renewals_total": 2,
   "auth_level": "bearer-stage0",
   "auth_note": "Bearer-key auth only. This is NOT owner-signature auth: the witness verifies that the caller holds a key bound to this namespace prefix, not that the log's owner authorized this record. Anyone who obtains the key can pin or renew. Owner-signature auth — a detached signature over {namespace, rows, chain, timestamp} verified against a public key registered to the namespace — is the Stage-1 requirement and is NOT built yet. Read publisher_heartbeat_current as proof that a key-holder was alive and asserting, never as proof of the log owner's intent.",
@@ -39,9 +39,18 @@
       "due_by": "2026-08-16T01:05:18.810Z",
       "supersedes_due_by": "2026-08-14T22:04:55.558Z",
       "superseded_deadline_was_missed": true
+    },
+    {
+      "seq": 4,
+      "kind": "content_head_advance",
+      "opened_at": "2026-08-15T01:06:08.629Z",
+      "cadence_hours": 24,
+      "due_by": "2026-08-16T01:06:08.629Z",
+      "supersedes_due_by": "2026-08-16T01:05:18.810Z",
+      "superseded_deadline_was_missed": false
     }
   ],
-  "intervals_total": 3,
+  "intervals_total": 4,
   "ever_missed_deadline": true,
   "missed_deadline_count": 1,
   "missed_deadlines": [
