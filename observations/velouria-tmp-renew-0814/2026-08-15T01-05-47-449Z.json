@@ -1,0 +1,15 @@
+{
+  "observed_at": "2026-08-15T01:05:47.449Z",
+  "claimed": {
+    "namespace": "velouria-tmp-renew-0814",
+    "rows": 100,
+    "chain": "deadbeefdeadbeef"
+  },
+  "accepted_head": {
+    "rows": 100,
+    "chain": "aaaa1111bbbb2222",
+    "seq": 3
+  },
+  "auth_result": "key-valid-for-namespace",
+  "verdict": "head-conflict: same rows, different chain (re-mint signature)"
+}
