@@ -1,0 +1,13 @@
+Arcaeon witness log: genesis
+origin: arcaeon.io/witness-pins/log/v1
+checkpoint: log/checkpoints/2026-09-23.txt
+size: 57
+root_sha256_hex: f455642b21d1eb95db56603480b4e662155b7f3b6fd50f31afbd2f9a9d9fb5eb
+root_base64: 9FVkKyHR65XbVmA0gLTmYhVbfztv1Q8xr70vmp2ftes=
+tree_commit: be14dd22f4ec2f9c4efea236dff7a9ae0db5617f
+stated_time: 2026-09-23T10:52:25+00:00
+signed_by: arcaeon.io/witness-log/2026-09-22+09765dec
+
+Leaves 0 to 56 were logged on 2026-09-23 from records already in the repository. The log proves they have not changed SINCE that date. For their earlier history, rely on the git commit that introduced each file and on the daily anchors from 2026-08-14.
+
+stated_time is the later of the tree commit's committer time and the publisher's clock. Like every commit date in this repository it is the operator's own statement; the independent clock is the daily OpenTimestamps anchor.
