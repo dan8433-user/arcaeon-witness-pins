@@ -1,0 +1,5 @@
+arcaeon.io/witness-pins/log/v1
+67
+3xCCuCb9ARUVNy09TyDmjdcuRfSHEIeCc/erIUIARvM=
+
+— arcaeon.io/witness-log/2026-09-22 CXZd7MkJdA7Z/jNEHg6k4HKKqWzdtCEZwYomo2nG2MPaLZznmcV8cxudjXS3a26CiqZqHlJ7SI7Fc4bETCLJrgnaRwk=
