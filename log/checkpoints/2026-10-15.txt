@@ -1,0 +1,5 @@
+arcaeon.io/witness-pins/log/v1
+80
+jZclQL5mhy0GCkPcUDQyQiFwWX2Yau9BFpnaa+/m840=
+
+— arcaeon.io/witness-log/2026-09-22 CXZd7LCmTPDnCyLy1t4IdDQj/BrPlHRngqDgZSDfyhE/SHRvjdCJJB5+9/s9p65EdDP1pnlDeTIVsUZ7jP02WwNBTwY=
