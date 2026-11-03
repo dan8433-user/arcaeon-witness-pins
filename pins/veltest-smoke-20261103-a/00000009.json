@@ -1,0 +1,102 @@
+{
+  "namespace": "veltest-smoke-20261103-a",
+  "rows": 9,
+  "chain": "5ea27d170dbd17c303971b16a48d2908226af9114328cc4c1566231cac010b10",
+  "pinned_at": "2026-11-03T12:12:16.087Z",
+  "seq": 9,
+  "cadence_hours": 24,
+  "next_pin_due_by": "2026-11-04T12:12:16.087Z",
+  "record_kind": "content_head_advance",
+  "head_first_seen_at": "2026-11-03T12:12:16.087Z",
+  "renewals_since_advance": 0,
+  "renewals_total": 0,
+  "auth_level": "bearer-stage0",
+  "auth_note": "Bearer-key auth only. This is NOT owner-signature auth: the witness verifies that the caller holds a key bound to this namespace prefix, not that the log's owner authorized this record. Anyone who obtains the key can pin or renew. Owner-signature auth — a detached signature over {namespace, rows, chain, timestamp} verified against a public key registered to the namespace — is the Stage-1 requirement and is NOT built yet. Read publisher_heartbeat_current as proof that a key-holder was alive and asserting, never as proof of the log owner's intent.",
+  "intervals": [
+    {
+      "seq": 1,
+      "kind": "content_head_advance",
+      "opened_at": "2026-11-03T12:11:51.228Z",
+      "cadence_hours": 24,
+      "due_by": "2026-11-04T12:11:51.228Z",
+      "supersedes_due_by": null,
+      "superseded_deadline_was_missed": false
+    },
+    {
+      "seq": 2,
+      "kind": "content_head_advance",
+      "opened_at": "2026-11-03T12:11:54.422Z",
+      "cadence_hours": 24,
+      "due_by": "2026-11-04T12:11:54.422Z",
+      "supersedes_due_by": "2026-11-04T12:11:51.228Z",
+      "superseded_deadline_was_missed": false
+    },
+    {
+      "seq": 3,
+      "kind": "content_head_advance",
+      "opened_at": "2026-11-03T12:11:57.317Z",
+      "cadence_hours": 24,
+      "due_by": "2026-11-04T12:11:57.317Z",
+      "supersedes_due_by": "2026-11-04T12:11:54.422Z",
+      "superseded_deadline_was_missed": false
+    },
+    {
+      "seq": 4,
+      "kind": "content_head_advance",
+      "opened_at": "2026-11-03T12:12:00.412Z",
+      "cadence_hours": 24,
+      "due_by": "2026-11-04T12:12:00.412Z",
+      "supersedes_due_by": "2026-11-04T12:11:57.317Z",
+      "superseded_deadline_was_missed": false
+    },
+    {
+      "seq": 5,
+      "kind": "content_head_advance",
+      "opened_at": "2026-11-03T12:12:04.109Z",
+      "cadence_hours": 24,
+      "due_by": "2026-11-04T12:12:04.109Z",
+      "supersedes_due_by": "2026-11-04T12:12:00.412Z",
+      "superseded_deadline_was_missed": false
+    },
+    {
+      "seq": 6,
+      "kind": "content_head_advance",
+      "opened_at": "2026-11-03T12:12:07.060Z",
+      "cadence_hours": 24,
+      "due_by": "2026-11-04T12:12:07.060Z",
+      "supersedes_due_by": "2026-11-04T12:12:04.109Z",
+      "superseded_deadline_was_missed": false
+    },
+    {
+      "seq": 7,
+      "kind": "content_head_advance",
+      "opened_at": "2026-11-03T12:12:09.834Z",
+      "cadence_hours": 24,
+      "due_by": "2026-11-04T12:12:09.834Z",
+      "supersedes_due_by": "2026-11-04T12:12:07.060Z",
+      "superseded_deadline_was_missed": false
+    },
+    {
+      "seq": 8,
+      "kind": "content_head_advance",
+      "opened_at": "2026-11-03T12:12:12.719Z",
+      "cadence_hours": 24,
+      "due_by": "2026-11-04T12:12:12.719Z",
+      "supersedes_due_by": "2026-11-04T12:12:09.834Z",
+      "superseded_deadline_was_missed": false
+    },
+    {
+      "seq": 9,
+      "kind": "content_head_advance",
+      "opened_at": "2026-11-03T12:12:16.087Z",
+      "cadence_hours": 24,
+      "due_by": "2026-11-04T12:12:16.087Z",
+      "supersedes_due_by": "2026-11-04T12:12:12.719Z",
+      "superseded_deadline_was_missed": false
+    }
+  ],
+  "intervals_total": 9,
+  "ever_missed_deadline": false,
+  "missed_deadline_count": 0,
+  "missed_deadlines": []
+}
