@@ -1,13 +1,13 @@
 {
   "namespace": "veltest-smoke-20261103-a",
-  "rows": 8,
-  "chain": "1bb8dfd50ec0aa0af2a24d4eee8ab07f4f8a58c2faf76d77798792269e4e2be1",
-  "pinned_at": "2026-11-03T12:12:12.719Z",
-  "seq": 8,
+  "rows": 9,
+  "chain": "5ea27d170dbd17c303971b16a48d2908226af9114328cc4c1566231cac010b10",
+  "pinned_at": "2026-11-03T12:12:16.087Z",
+  "seq": 9,
   "cadence_hours": 24,
-  "next_pin_due_by": "2026-11-04T12:12:12.719Z",
+  "next_pin_due_by": "2026-11-04T12:12:16.087Z",
   "record_kind": "content_head_advance",
-  "head_first_seen_at": "2026-11-03T12:12:12.719Z",
+  "head_first_seen_at": "2026-11-03T12:12:16.087Z",
   "renewals_since_advance": 0,
   "renewals_total": 0,
   "auth_level": "bearer-stage0",
@@ -84,9 +84,18 @@
       "due_by": "2026-11-04T12:12:12.719Z",
       "supersedes_due_by": "2026-11-04T12:12:09.834Z",
       "superseded_deadline_was_missed": false
+    },
+    {
+      "seq": 9,
+      "kind": "content_head_advance",
+      "opened_at": "2026-11-03T12:12:16.087Z",
+      "cadence_hours": 24,
+      "due_by": "2026-11-04T12:12:16.087Z",
+      "supersedes_due_by": "2026-11-04T12:12:12.719Z",
+      "superseded_deadline_was_missed": false
     }
   ],
-  "intervals_total": 8,
+  "intervals_total": 9,
   "ever_missed_deadline": false,
   "missed_deadline_count": 0,
   "missed_deadlines": []
