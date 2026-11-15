@@ -1,0 +1,16 @@
+{
+ "recipe": "rfc9162-consistency:sha256:v1",
+ "origin": "arcaeon.io/witness-pins/log/v1",
+ "old_size": 118,
+ "old_root": "ay089ZuB1pmku0cwJtTz72z5Tu42275jbYwgnHtPGd8=",
+ "new_size": 119,
+ "new_root": "HyJH7CcqIBa0M2ZMtg9uQnPj3KuhhUyJJhOjBBd/aJk=",
+ "path": [
+  "2b4b07999000a90fb5a7c2ada9b409670c9463ea10207d0c341ba9aa3831a044",
+  "b14de76b1aa12ca95972665ceffa134825f7df1e81c1c6fc4f387547775ebeb7",
+  "fe3af27824690c5387c14096c5c97c7945289f8dc6a593dbc4155aea4685be3f",
+  "b50e8c6b70e9ee1f8e665e82738047c6b4200626166301ed644bc7139a27d469",
+  "f371750110a0abde955c56f3061326661cd0e3bf1500faf1763ebeb13ec1408e",
+  "3cbeb9d0e0f4c8722e7cf93ceb17b6e6dd00e155c4574ac1dc77ac25c09a5db1"
+ ]
+}
